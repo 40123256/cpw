@@ -37,22 +37,24 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="leo.20151116031345.1"><vh>@edit 40123157_cp_w1.md</vh></v>
-<v t="leo.20151116031358.1"><vh>@edit 40123157_cp_w2.md</vh></v>
-<v t="leo.20151116031408.1"><vh>@edit 40123157_cp_w3.md</vh></v>
-<v t="leo.20151116031418.1"><vh>@edit 40123157_cp_w5.md</vh></v>
-<v t="leo.20151116031427.1"><vh>@edit 40123157_cp_w6.md</vh></v>
-<v t="leo.20151116031506.1"><vh>@edit 40123157_cp_w7.md</vh></v>
-<v t="leo.20151116072753.1"><vh>@edit 40123157_cp_w8.md</vh></v>
+<v t="leo.20151116031345.1"><vh>@edit 40123256_w1.md</vh></v>
+<v t="leo.20151116031358.1"><vh>@edit 40123256_w2.md</vh></v>
+<v t="leo.20151116031408.1"><vh>@edit 40123256_w3.md</vh></v>
+<v t="leo.20151116031418.1"><vh>@edit 40123256_w5.md</vh></v>
+<v t="leo.20151116031427.1"><vh>@edit 40123256_w6.md</vh></v>
+<v t="leo.20151116031506.1"><vh>@edit 40123256_w7.md</vh></v>
+<v t="leo.20151116072753.1"><vh>@edit 40123256_w8.md</vh></v>
+<v t="leo.20160108204909.1"><vh>@edit 40123256_w9.md</vh></v>
+<v t="leo.20160108122032.1"><vh>@edit 40123256_w17.md</vh></v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151116031556.1"><vh>@edit 40123157_cp_w1_p.html</vh></v>
-<v t="leo.20151116031606.1"><vh>@edit 40123157_cp_w2_p.html</vh></v>
-<v t="leo.20151116031621.1"><vh>@edit 40123157_cp_w3_p.html</vh></v>
-<v t="leo.20151116031629.1"><vh>@edit 40123157_cp_w5_p.html</vh></v>
-<v t="leo.20151116031638.1"><vh>@edit 40123157_cp_w6_p.html</vh></v>
-<v t="leo.20151116031647.1"><vh>@edit 40123157_cp_w7_p.html</vh></v>
-<v t="leo.20151116072736.1"><vh>@edit 40123157_cp_w8_p.html</vh></v>
+<v t="leo.20151116031556.1"><vh>@edit 40123256_cp_w1_p.html</vh></v>
+<v t="leo.20151116031606.1"><vh>@edit 40123256_cp_w2_p.html</vh></v>
+<v t="leo.20151116031621.1"><vh>@edit 40123256_cp_w3_p.html</vh></v>
+<v t="leo.20151116031629.1"><vh>@edit 40123256_cp_w5_p.html</vh></v>
+<v t="leo.20151116031638.1"><vh>@edit 40123256_cp_w6_p.html</vh></v>
+<v t="leo.20151116031647.1"><vh>@edit 40123256_cp_w7_p.html</vh></v>
+<v t="leo.20151116072736.1"><vh>@edit 40123256_cp_w8_p.html</vh></v>
 </v>
 <v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
